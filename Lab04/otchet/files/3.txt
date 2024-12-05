@@ -1,0 +1,19 @@
+total 64
+ 731409 -rw-rw-r--  1 matko_dd matko_dd    0 Nov 27 16:56 2.txt
+ 732411 -rw-rw-r--  1 matko_dd matko_dd    0 Nov 27 17:43 4.md
+ 863852 drwxrwxr-x  2 matko_dd matko_dd 4096 Nov 27 17:46 4.txt
+ 731485 -rw-rw-r--  1 matko_dd matko_dd 3311 Nov 27 16:48 commands.md
+ 734331 -rw-------  1 matko_dd matko_dd 1261 Nov 21 16:53 data.md.save
+ 655579 drwxr-xr-x  2 matko_dd matko_dd 4096 Oct  5 09:10 Desktop
+ 655583 drwxr-xr-x  3 matko_dd matko_dd 4096 Nov 21 17:08 Documents
+ 655580 drwxr-xr-x  4 matko_dd matko_dd 4096 Nov 27 17:08 Downloads
+ 863812 drwxrwxr-x  7 matko_dd matko_dd 4096 Nov 27 16:49 LAB
+ 655584 drwxr-xr-x  2 matko_dd matko_dd 4096 Oct  5 09:10 Music
+1202003 drwxrwxr-x  3 matko_dd matko_dd 4096 Nov 27 17:31 otchet
+ 655585 drwxr-xr-x  2 matko_dd matko_dd 4096 Oct 14 19:27 Pictures
+ 731965 drwxrwxr-x  6 matko_dd matko_dd 4096 Oct 14 18:31 powerlevel10k
+ 655582 drwxr-xr-x  2 matko_dd matko_dd 4096 Oct  5 09:10 Public
+ 863594 drwxrwxr-x 10 matko_dd matko_dd 4096 Nov 21 17:15 structure
+ 655581 drwxr-xr-x  2 matko_dd matko_dd 4096 Oct  5 09:10 Templates
+ 655586 drwxr-xr-x  2 matko_dd matko_dd 4096 Oct  5 09:10 Videos
+ 863172 drwxrwxr-x  8 matko_dd matko_dd 4096 Oct 14 18:52 zsh-syntax-highlighting

@@ -1,0 +1,16 @@
+/home/matko_dd/Public
+/home/matko_dd/4.md
+/home/matko_dd/2.txt
+/home/matko_dd/LAB/Lab04
+/home/matko_dd/.sudo_as_admin_successful
+/home/matko_dd/.config/goa-1.0
+/home/matko_dd/.cache/obexd
+/home/matko_dd/.mozilla/extensions
+/home/matko_dd/.ICEauthority
+/home/matko_dd/Music
+/home/matko_dd/Templates
+/home/matko_dd/Videos
+/home/matko_dd/.vscode/cli
+/home/matko_dd/4.txt
+/home/matko_dd/Desktop
+/home/matko_dd/.gnupg/private-keys-v1.d

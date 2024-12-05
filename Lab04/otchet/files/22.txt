@@ -1,0 +1,16 @@
+/dev
+/etc/apparmor.d/devhelp
+/sys/class/devcoredump
+/sys/class/devlink
+/sys/class/devfreq-event
+/sys/class/devfreq
+/sys/devices
+/sys/dev
+/sys/module/device_hmem
+/proc/sys/dev
+/proc/scsi/device_info
+/proc/asound/devices
+/proc/devices
+/usr/sbin/devlink
+/usr/bin/devdump
+/run/NetworkManager/devices
